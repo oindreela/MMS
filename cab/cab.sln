@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cab", "cab\cab.csproj", "{66E35B24-A13D-4F7F-8B08-A5787E768CC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66E35B24-A13D-4F7F-8B08-A5787E768CC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66E35B24-A13D-4F7F-8B08-A5787E768CC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66E35B24-A13D-4F7F-8B08-A5787E768CC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66E35B24-A13D-4F7F-8B08-A5787E768CC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B22FD95B-5227-4242-BD73-AD1D9062C643}
+	EndGlobalSection
+EndGlobal

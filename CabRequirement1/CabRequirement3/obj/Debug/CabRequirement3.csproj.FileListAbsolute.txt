@@ -1,0 +1,6 @@
+C:\Users\CGI\source\repos\CabRequirement1\CabRequirement3\bin\Debug\CabRequirement3.exe.config
+C:\Users\CGI\source\repos\CabRequirement1\CabRequirement3\bin\Debug\CabRequirement3.exe
+C:\Users\CGI\source\repos\CabRequirement1\CabRequirement3\bin\Debug\CabRequirement3.pdb
+C:\Users\CGI\source\repos\CabRequirement1\CabRequirement3\obj\Debug\CabRequirement3.csproj.CoreCompileInputs.cache
+C:\Users\CGI\source\repos\CabRequirement1\CabRequirement3\obj\Debug\CabRequirement3.exe
+C:\Users\CGI\source\repos\CabRequirement1\CabRequirement3\obj\Debug\CabRequirement3.pdb

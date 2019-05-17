@@ -1,0 +1,7 @@
+C:\Users\CGI\source\repos\TicketRequirement1\TicketRequirement1\bin\Debug\TicketRequirement1.exe.config
+C:\Users\CGI\source\repos\TicketRequirement1\TicketRequirement1\bin\Debug\TicketRequirement1.exe
+C:\Users\CGI\source\repos\TicketRequirement1\TicketRequirement1\bin\Debug\TicketRequirement1.pdb
+C:\Users\CGI\source\repos\TicketRequirement1\TicketRequirement1\obj\Debug\TicketRequirement1.csprojAssemblyReference.cache
+C:\Users\CGI\source\repos\TicketRequirement1\TicketRequirement1\obj\Debug\TicketRequirement1.csproj.CoreCompileInputs.cache
+C:\Users\CGI\source\repos\TicketRequirement1\TicketRequirement1\obj\Debug\TicketRequirement1.exe
+C:\Users\CGI\source\repos\TicketRequirement1\TicketRequirement1\obj\Debug\TicketRequirement1.pdb

@@ -1,0 +1,7 @@
+C:\Users\CGI\source\repos\xyz\xyz\bin\Debug\xyz.exe.config
+C:\Users\CGI\source\repos\xyz\xyz\bin\Debug\xyz.exe
+C:\Users\CGI\source\repos\xyz\xyz\bin\Debug\xyz.pdb
+C:\Users\CGI\source\repos\xyz\xyz\obj\Debug\xyz.csprojAssemblyReference.cache
+C:\Users\CGI\source\repos\xyz\xyz\obj\Debug\xyz.csproj.CoreCompileInputs.cache
+C:\Users\CGI\source\repos\xyz\xyz\obj\Debug\xyz.exe
+C:\Users\CGI\source\repos\xyz\xyz\obj\Debug\xyz.pdb

@@ -1,0 +1,10 @@
+C:\Users\CGI\source\repos\MyDeskTopApp\MyDeskTopApp\bin\Debug\MyDeskTopApp.exe.config
+C:\Users\CGI\source\repos\MyDeskTopApp\MyDeskTopApp\bin\Debug\MyDeskTopApp.exe
+C:\Users\CGI\source\repos\MyDeskTopApp\MyDeskTopApp\bin\Debug\MyDeskTopApp.pdb
+C:\Users\CGI\source\repos\MyDeskTopApp\MyDeskTopApp\obj\Debug\MyDeskTopApp.csprojAssemblyReference.cache
+C:\Users\CGI\source\repos\MyDeskTopApp\MyDeskTopApp\obj\Debug\MyDeskTopApp.Form1.resources
+C:\Users\CGI\source\repos\MyDeskTopApp\MyDeskTopApp\obj\Debug\MyDeskTopApp.Properties.Resources.resources
+C:\Users\CGI\source\repos\MyDeskTopApp\MyDeskTopApp\obj\Debug\MyDeskTopApp.csproj.GenerateResource.cache
+C:\Users\CGI\source\repos\MyDeskTopApp\MyDeskTopApp\obj\Debug\MyDeskTopApp.csproj.CoreCompileInputs.cache
+C:\Users\CGI\source\repos\MyDeskTopApp\MyDeskTopApp\obj\Debug\MyDeskTopApp.exe
+C:\Users\CGI\source\repos\MyDeskTopApp\MyDeskTopApp\obj\Debug\MyDeskTopApp.pdb

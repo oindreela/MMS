@@ -1,0 +1,7 @@
+C:\Users\CGI\source\repos\MultiThread\pract\bin\Debug\pract.exe.config
+C:\Users\CGI\source\repos\MultiThread\pract\bin\Debug\pract.exe
+C:\Users\CGI\source\repos\MultiThread\pract\bin\Debug\pract.pdb
+C:\Users\CGI\source\repos\MultiThread\pract\obj\Debug\pract.csprojAssemblyReference.cache
+C:\Users\CGI\source\repos\MultiThread\pract\obj\Debug\pract.csproj.CoreCompileInputs.cache
+C:\Users\CGI\source\repos\MultiThread\pract\obj\Debug\pract.exe
+C:\Users\CGI\source\repos\MultiThread\pract\obj\Debug\pract.pdb

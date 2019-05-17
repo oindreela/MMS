@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+  <Users>
+    <User Type="Admin">
+      <Username>user1</Username>
+      <Password>Password1</Password>
+    </User>
+
+    <User Type="Guest">
+      <Username>user2</Username>
+      <Password>Password2</Password>
+    </User>
+
+    <User Type="Admin">
+      <Username>user3</Username>
+      <Password>Password3</Password>
+    </User>
+  </Users>

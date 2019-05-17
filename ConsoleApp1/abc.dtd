@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE Users [
+<!ELEMENT Users (User)>
+ <!ELEMENT User (username,password,email,contact_number)>
+ <!ELEMENT username (#PCDATA) >
+ <!ELEMENT password (#PCDATA)>
+  <!ELEMENT email (#PCDATA)>
+  <!ELEMENT contact_number (home,office)>
+  <!ELEMENT home (#PCDATA)>
+  <!ELEMENT office (#PCDATA)>
+]>

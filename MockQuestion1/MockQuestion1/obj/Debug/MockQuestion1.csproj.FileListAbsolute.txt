@@ -1,0 +1,7 @@
+C:\Users\CGI\source\repos\MockQuestion1\MockQuestion1\bin\Debug\MockQuestion1.exe.config
+C:\Users\CGI\source\repos\MockQuestion1\MockQuestion1\bin\Debug\MockQuestion1.exe
+C:\Users\CGI\source\repos\MockQuestion1\MockQuestion1\bin\Debug\MockQuestion1.pdb
+C:\Users\CGI\source\repos\MockQuestion1\MockQuestion1\obj\Debug\MockQuestion1.csprojAssemblyReference.cache
+C:\Users\CGI\source\repos\MockQuestion1\MockQuestion1\obj\Debug\MockQuestion1.csproj.CoreCompileInputs.cache
+C:\Users\CGI\source\repos\MockQuestion1\MockQuestion1\obj\Debug\MockQuestion1.exe
+C:\Users\CGI\source\repos\MockQuestion1\MockQuestion1\obj\Debug\MockQuestion1.pdb

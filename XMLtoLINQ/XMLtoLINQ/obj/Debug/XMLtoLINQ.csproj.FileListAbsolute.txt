@@ -1,0 +1,7 @@
+C:\Users\CGI\source\repos\XMLtoLINQ\XMLtoLINQ\bin\Debug\XMLtoLINQ.exe.config
+C:\Users\CGI\source\repos\XMLtoLINQ\XMLtoLINQ\bin\Debug\XMLtoLINQ.exe
+C:\Users\CGI\source\repos\XMLtoLINQ\XMLtoLINQ\bin\Debug\XMLtoLINQ.pdb
+C:\Users\CGI\source\repos\XMLtoLINQ\XMLtoLINQ\obj\Debug\XMLtoLINQ.csprojAssemblyReference.cache
+C:\Users\CGI\source\repos\XMLtoLINQ\XMLtoLINQ\obj\Debug\XMLtoLINQ.csproj.CoreCompileInputs.cache
+C:\Users\CGI\source\repos\XMLtoLINQ\XMLtoLINQ\obj\Debug\XMLtoLINQ.exe
+C:\Users\CGI\source\repos\XMLtoLINQ\XMLtoLINQ\obj\Debug\XMLtoLINQ.pdb

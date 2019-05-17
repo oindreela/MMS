@@ -1,0 +1,7 @@
+C:\Users\CGI\source\repos\Mock_7_Req_1\Mock_7_Req_1\bin\Debug\Mock_7_Req_1.exe.config
+C:\Users\CGI\source\repos\Mock_7_Req_1\Mock_7_Req_1\bin\Debug\Mock_7_Req_1.exe
+C:\Users\CGI\source\repos\Mock_7_Req_1\Mock_7_Req_1\bin\Debug\Mock_7_Req_1.pdb
+C:\Users\CGI\source\repos\Mock_7_Req_1\Mock_7_Req_1\obj\Debug\Mock_7_Req_1.csprojAssemblyReference.cache
+C:\Users\CGI\source\repos\Mock_7_Req_1\Mock_7_Req_1\obj\Debug\Mock_7_Req_1.csproj.CoreCompileInputs.cache
+C:\Users\CGI\source\repos\Mock_7_Req_1\Mock_7_Req_1\obj\Debug\Mock_7_Req_1.exe
+C:\Users\CGI\source\repos\Mock_7_Req_1\Mock_7_Req_1\obj\Debug\Mock_7_Req_1.pdb

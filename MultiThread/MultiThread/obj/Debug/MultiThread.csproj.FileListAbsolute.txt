@@ -1,0 +1,7 @@
+C:\Users\CGI\source\repos\MultiThread\MultiThread\bin\Debug\MultiThread.exe.config
+C:\Users\CGI\source\repos\MultiThread\MultiThread\bin\Debug\MultiThread.exe
+C:\Users\CGI\source\repos\MultiThread\MultiThread\bin\Debug\MultiThread.pdb
+C:\Users\CGI\source\repos\MultiThread\MultiThread\obj\Debug\MultiThread.csprojAssemblyReference.cache
+C:\Users\CGI\source\repos\MultiThread\MultiThread\obj\Debug\MultiThread.csproj.CoreCompileInputs.cache
+C:\Users\CGI\source\repos\MultiThread\MultiThread\obj\Debug\MultiThread.exe
+C:\Users\CGI\source\repos\MultiThread\MultiThread\obj\Debug\MultiThread.pdb

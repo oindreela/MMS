@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerRequirement5", "CustomerRequirement5\CustomerRequirement5.csproj", "{808CD161-EBCC-47FE-ACF0-6DE1105D5D6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mock7Req4", "Mock7Req4\Mock7Req4.csproj", "{599B77A5-CE23-4273-A72E-513CF9207311}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{808CD161-EBCC-47FE-ACF0-6DE1105D5D6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{808CD161-EBCC-47FE-ACF0-6DE1105D5D6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{808CD161-EBCC-47FE-ACF0-6DE1105D5D6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{808CD161-EBCC-47FE-ACF0-6DE1105D5D6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{599B77A5-CE23-4273-A72E-513CF9207311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{599B77A5-CE23-4273-A72E-513CF9207311}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{599B77A5-CE23-4273-A72E-513CF9207311}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{599B77A5-CE23-4273-A72E-513CF9207311}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29441C0B-BF67-4D4B-A6D7-7DC3E5C407A0}
+	EndGlobalSection
+EndGlobal

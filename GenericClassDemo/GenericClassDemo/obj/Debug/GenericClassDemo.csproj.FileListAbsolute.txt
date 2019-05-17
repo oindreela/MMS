@@ -1,0 +1,7 @@
+C:\Users\CGI\source\repos\GenericClassDemo\GenericClassDemo\bin\Debug\GenericClassDemo.exe.config
+C:\Users\CGI\source\repos\GenericClassDemo\GenericClassDemo\bin\Debug\GenericClassDemo.exe
+C:\Users\CGI\source\repos\GenericClassDemo\GenericClassDemo\bin\Debug\GenericClassDemo.pdb
+C:\Users\CGI\source\repos\GenericClassDemo\GenericClassDemo\obj\Debug\GenericClassDemo.csprojAssemblyReference.cache
+C:\Users\CGI\source\repos\GenericClassDemo\GenericClassDemo\obj\Debug\GenericClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\CGI\source\repos\GenericClassDemo\GenericClassDemo\obj\Debug\GenericClassDemo.exe
+C:\Users\CGI\source\repos\GenericClassDemo\GenericClassDemo\obj\Debug\GenericClassDemo.pdb

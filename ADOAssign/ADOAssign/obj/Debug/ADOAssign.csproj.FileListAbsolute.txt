@@ -1,0 +1,7 @@
+C:\Users\CGI\source\repos\ADOAssign\ADOAssign\bin\Debug\ADOAssign.exe.config
+C:\Users\CGI\source\repos\ADOAssign\ADOAssign\bin\Debug\ADOAssign.exe
+C:\Users\CGI\source\repos\ADOAssign\ADOAssign\bin\Debug\ADOAssign.pdb
+C:\Users\CGI\source\repos\ADOAssign\ADOAssign\obj\Debug\ADOAssign.csprojAssemblyReference.cache
+C:\Users\CGI\source\repos\ADOAssign\ADOAssign\obj\Debug\ADOAssign.csproj.CoreCompileInputs.cache
+C:\Users\CGI\source\repos\ADOAssign\ADOAssign\obj\Debug\ADOAssign.exe
+C:\Users\CGI\source\repos\ADOAssign\ADOAssign\obj\Debug\ADOAssign.pdb

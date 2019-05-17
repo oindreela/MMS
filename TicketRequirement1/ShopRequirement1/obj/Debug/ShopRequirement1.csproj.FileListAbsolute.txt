@@ -1,0 +1,7 @@
+C:\Users\CGI\source\repos\TicketRequirement1\ShopRequirement1\bin\Debug\ShopRequirement1.exe.config
+C:\Users\CGI\source\repos\TicketRequirement1\ShopRequirement1\bin\Debug\ShopRequirement1.exe
+C:\Users\CGI\source\repos\TicketRequirement1\ShopRequirement1\bin\Debug\ShopRequirement1.pdb
+C:\Users\CGI\source\repos\TicketRequirement1\ShopRequirement1\obj\Debug\ShopRequirement1.csprojAssemblyReference.cache
+C:\Users\CGI\source\repos\TicketRequirement1\ShopRequirement1\obj\Debug\ShopRequirement1.csproj.CoreCompileInputs.cache
+C:\Users\CGI\source\repos\TicketRequirement1\ShopRequirement1\obj\Debug\ShopRequirement1.exe
+C:\Users\CGI\source\repos\TicketRequirement1\ShopRequirement1\obj\Debug\ShopRequirement1.pdb

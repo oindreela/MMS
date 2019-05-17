@@ -1,0 +1,7 @@
+C:\Users\CGI\source\repos\testingDemo\testingDemo\bin\Debug\testingDemo.exe.config
+C:\Users\CGI\source\repos\testingDemo\testingDemo\bin\Debug\testingDemo.exe
+C:\Users\CGI\source\repos\testingDemo\testingDemo\bin\Debug\testingDemo.pdb
+C:\Users\CGI\source\repos\testingDemo\testingDemo\obj\Debug\testingDemo.csprojAssemblyReference.cache
+C:\Users\CGI\source\repos\testingDemo\testingDemo\obj\Debug\testingDemo.csproj.CoreCompileInputs.cache
+C:\Users\CGI\source\repos\testingDemo\testingDemo\obj\Debug\testingDemo.exe
+C:\Users\CGI\source\repos\testingDemo\testingDemo\obj\Debug\testingDemo.pdb

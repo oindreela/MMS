@@ -1,0 +1,7 @@
+C:\Users\CGI\source\repos\LamdaDemo\LamdaDemo\bin\Debug\LamdaDemo.exe.config
+C:\Users\CGI\source\repos\LamdaDemo\LamdaDemo\bin\Debug\LamdaDemo.exe
+C:\Users\CGI\source\repos\LamdaDemo\LamdaDemo\bin\Debug\LamdaDemo.pdb
+C:\Users\CGI\source\repos\LamdaDemo\LamdaDemo\obj\Debug\LamdaDemo.csprojAssemblyReference.cache
+C:\Users\CGI\source\repos\LamdaDemo\LamdaDemo\obj\Debug\LamdaDemo.csproj.CoreCompileInputs.cache
+C:\Users\CGI\source\repos\LamdaDemo\LamdaDemo\obj\Debug\LamdaDemo.exe
+C:\Users\CGI\source\repos\LamdaDemo\LamdaDemo\obj\Debug\LamdaDemo.pdb

@@ -1,0 +1,7 @@
+C:\Users\CGI\source\repos\LamdaDemo\Practise\bin\Debug\Practise.exe.config
+C:\Users\CGI\source\repos\LamdaDemo\Practise\bin\Debug\Practise.exe
+C:\Users\CGI\source\repos\LamdaDemo\Practise\bin\Debug\Practise.pdb
+C:\Users\CGI\source\repos\LamdaDemo\Practise\obj\Debug\Practise.csprojAssemblyReference.cache
+C:\Users\CGI\source\repos\LamdaDemo\Practise\obj\Debug\Practise.csproj.CoreCompileInputs.cache
+C:\Users\CGI\source\repos\LamdaDemo\Practise\obj\Debug\Practise.exe
+C:\Users\CGI\source\repos\LamdaDemo\Practise\obj\Debug\Practise.pdb

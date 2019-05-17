@@ -1,0 +1,7 @@
+C:\Users\CGI\source\repos\Mock_6_Req_3\Mock_6_Req_4\bin\Debug\Mock_6_Req_4.exe.config
+C:\Users\CGI\source\repos\Mock_6_Req_3\Mock_6_Req_4\bin\Debug\Mock_6_Req_4.exe
+C:\Users\CGI\source\repos\Mock_6_Req_3\Mock_6_Req_4\bin\Debug\Mock_6_Req_4.pdb
+C:\Users\CGI\source\repos\Mock_6_Req_3\Mock_6_Req_4\obj\Debug\Mock_6_Req_4.csprojAssemblyReference.cache
+C:\Users\CGI\source\repos\Mock_6_Req_3\Mock_6_Req_4\obj\Debug\Mock_6_Req_4.csproj.CoreCompileInputs.cache
+C:\Users\CGI\source\repos\Mock_6_Req_3\Mock_6_Req_4\obj\Debug\Mock_6_Req_4.exe
+C:\Users\CGI\source\repos\Mock_6_Req_3\Mock_6_Req_4\obj\Debug\Mock_6_Req_4.pdb

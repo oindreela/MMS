@@ -1,0 +1,11 @@
+C:\Users\CGI\source\repos\testingDemo\testingDemoTests\bin\Debug\testingDemoTests.dll
+C:\Users\CGI\source\repos\testingDemo\testingDemoTests\bin\Debug\testingDemoTests.pdb
+C:\Users\CGI\source\repos\testingDemo\testingDemoTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\CGI\source\repos\testingDemo\testingDemoTests\bin\Debug\testingDemo.exe
+C:\Users\CGI\source\repos\testingDemo\testingDemoTests\bin\Debug\testingDemo.pdb
+C:\Users\CGI\source\repos\testingDemo\testingDemoTests\bin\Debug\testingDemo.exe.config
+C:\Users\CGI\source\repos\testingDemo\testingDemoTests\obj\Debug\testingDemoTests.csprojAssemblyReference.cache
+C:\Users\CGI\source\repos\testingDemo\testingDemoTests\obj\Debug\testingDemoTests.csproj.CoreCompileInputs.cache
+C:\Users\CGI\source\repos\testingDemo\testingDemoTests\obj\Debug\testingDemoTests.csproj.CopyComplete
+C:\Users\CGI\source\repos\testingDemo\testingDemoTests\obj\Debug\testingDemoTests.dll
+C:\Users\CGI\source\repos\testingDemo\testingDemoTests\obj\Debug\testingDemoTests.pdb
